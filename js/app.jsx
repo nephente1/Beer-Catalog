@@ -33,7 +33,7 @@ class Template extends React.Component {
         <div className="header">
             <div className="container clearfix flexcenter">
             <div className="col-half flexcenter">
-              <img className="logo" src={"images/beerlogo.png"}/>
+              <img className="logo" src={"https://raw.githubusercontent.com/nephente1/Beer-Catalog/master/images/beerlogo.png"}/>
                <h1>Beer catalog </h1>
             </div>
 			<div className="col-half flexcenter">

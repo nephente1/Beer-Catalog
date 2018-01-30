@@ -14416,7 +14416,7 @@ document.addEventListener('DOMContentLoaded', function () {
                             _react2.default.createElement(
                                 'div',
                                 { className: 'col-half flexcenter' },
-                                _react2.default.createElement('img', { className: 'logo', src: "../images/beerlogo.png" }),
+                                _react2.default.createElement('img', { className: 'logo', src: "https://raw.githubusercontent.com/nephente1/Beer-Catalog/master/images/beerlogo.png" }),
                                 _react2.default.createElement(
                                     'h1',
                                     null,
